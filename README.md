@@ -7,7 +7,7 @@
 
 ---
 
-Hi, I’m @samirmartins, born in Bom Sucesso-MG and at this moment living in São João del-Rei. 
+Hi, I’m @samirmartins (www.samirmartins.com.br), born in Bom Sucesso-MG and at this moment living in São João del-Rei. 
 
 I have a [PhD in Electrical Engineering](https://ppgee.ufmg.br/defesas/1076D.PDF) and I've been working with mathematical models since 2007, being this my main work interest. You can find a [list with my publications on my CV](http://lattes.cnpq.br/8082773515029049)
 
@@ -29,7 +29,7 @@ I'm looking forward to collaborate with you!
 
 ---
 
-Olá, eu sou @samirmartins, natural de Bom Sucesso-MG e atualmente morando em São João del-Rei. 
+Olá, eu sou @samirmartins (www.samirmartins.com.br), natural de Bom Sucesso-MG e atualmente morando em São João del-Rei. 
 
 Eu tenho um [doutorando em Engenharia Elétrica](https://ppgee.ufmg.br/defesas/1076D.PDF) e tenho trabalhado com modelos matemáticos desde 2007, sendo este meu principal interesse de trabalho. Você encontra [uma lista com minhas publicações no meu currículo](http://lattes.cnpq.br/8082773515029049)
 
