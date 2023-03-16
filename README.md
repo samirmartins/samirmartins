@@ -1,19 +1,22 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+	<img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+	<img align="center" alt="LaTeX" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+	<img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
 	<img align="center" alt="Matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
 </div>
 
 # Welcome to my Github profile! (EN-US) 
-
+## www.samirmartins.com.br
 ---
 
-Hi, I’m @samirmartins (www.samirmartins.com.br), born in Bom Sucesso-MG and at this moment living in São João del-Rei. 
+Hi, I’m @samirmartins, born in Bom Sucesso-MG and at this moment living in São João del-Rei. 
 
 I have a [PhD in Electrical Engineering](https://ppgee.ufmg.br/defesas/1076D.PDF) and I've been working with mathematical models since 2007, being this my main work interest. You can find a [list with my publications on my CV](http://lattes.cnpq.br/8082773515029049)
 
 I consider myself fascinated with financial markets, being this my current top hobby. Benoit Mandelbrot, Nassim Taleb and Al Brooks are my intelectual mentors in this field.
 
-Developer of [Fox - A Link to the Price](https://t.me/fox_priceAction_bot), a Telegram bot that performs techincal and fundamentalist analysis in financial market assets (Criptocurrencies, Nasdaq/Nyse, Forex, B3, ...).
+Developer of [Fox - A Link to the Price](https://t.me/fox_priceAction_bot), a Telegram bot that performs techincal and fundamentalist analysis in financial market assets (Cryptocurrencies, Nasdaq/Nyse, Forex, B3, ...).
 
 Half marathon runner, inspired by David Goggins. Since our brain consumes most energy produced by our body, I beleive we must be in fit in order to maximize our performance.
 
@@ -24,9 +27,8 @@ During my carrer, I have already programmed in C/C++/C#, Fortran, Pascal, HTML, 
 I'm looking forward to collaborate with you! 
 
 ---
-
 # Bem Vindo ao meu perfil no Github! (PT-BR) 
-
+## www.samirmartins.com.br
 ---
 
 Olá, eu sou @samirmartins (www.samirmartins.com.br), natural de Bom Sucesso-MG e atualmente morando em São João del-Rei. 
