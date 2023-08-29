@@ -16,7 +16,7 @@ I have a [PhD in Electrical Engineering](https://ppgee.ufmg.br/defesas/1076D.PDF
 
 I consider myself fascinated with financial markets, being this my current top hobby. Benoit Mandelbrot, Nassim Taleb and Al Brooks are my intelectual mentors in this field.
 
-Developer of [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), a Telegram bot that performs techincal and fundamentalist analysis in financial market assets (Cryptocurrencies, Nasdaq/Nyse, Forex, B3, ...).
+Developer of [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), a Telegram bot that performs techincal and fundamentalist analysis in financial market assets (Cryptocurrencies, Nasdaq/Nyse, Forex, B3, ...). I'm also the developer of [PYDAQ](https://samirmartins.github.io/pydaq/) - A Graphical User Interface for data acquisition with Python, Arduino and NIDAQ devices.
 
 Marathon runner, inspired by David Goggins. Since our brain consumes most energy produced by our body, I beleive we must be in fit in order to maximize our performance.
 
@@ -37,7 +37,7 @@ Eu tenho um [doutorando em Engenharia Elétrica](https://ppgee.ufmg.br/defesas/1
 
 Me considero fascinado por mercados financeiros, sendo este o meu principal hobby. Benoit Mandelbrot, Nassim Taleb e Al Brooks são meus mentores intelectuais nesta área.
 
-Desenvolvedor do [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), robô para Telegram que executa análise técnica e fundamentalista em ativos do mercado financeiro (Criptomoedas, Nasdaq/Nyse, Forex, B3, ...).
+Desenvolvedor do [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), robô para Telegram que executa análise técnica e fundamentalista em ativos do mercado financeiro (Criptomoedas, Nasdaq/Nyse, Forex, B3, ...). Também sou o desenvolvedor do [PYDAQ](https://samirmartins.github.io/pydaq/) - Uma interface gráfica para aquisição de dados com Python, Arduino e placas NIDAQ.
 
 Maratonista, inspirado por David Goggins. Uma vez que nosso cérebro consome a maior parte da energia producida pelo nosso corpo, acredito que precisamos estar em forma para maximizar nosso desempenho.
 
