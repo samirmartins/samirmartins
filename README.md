@@ -51,7 +51,7 @@ Espero construir uma colaboração com você!
 
 <div> 
 	<a href="https://www.linkedin.com/in/samir-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	<a href="https://www.instagram.com/milani.martins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+	<a href="https://www.instagram.com/osamirmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 	<a href="https://www.twitter.com/martinsSMilani" target="_blank"><img src="https://img.shields.io/twitter/follow/MartinsSMilani?style=for-the-badge" target="_blank"></a> 
 	<a href="https://www.samirmartins.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-www.samirmartins.com.br-blue?style=for-the-badge" target="_blank"></a> 
 </div>
