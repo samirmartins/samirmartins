@@ -1,57 +1,75 @@
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-	<img align="center" alt="Arduino" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-	<img align="center" alt="LaTeX" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
-	<img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
-	<img align="center" alt="Matlab" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-</div>
+# **Hi, I'm Samir**
 
-# Welcome to my Github profile! (EN-US) 
-## www.samirmartins.com.br
----
+I hold a PhD in Electrical Engineering from [UFMG](https://www.ufmg.br/), with research focused on mathematical modeling of time series. I've worked on mathematical modeling since 2007 and have been a professor and researcher at [UFSJ](https://ufsj.edu.br/) since 2013.
 
-Hi, I’m @samirmartins, born in Bom Sucesso-MG and at this moment living in São João del-Rei. 
+My work spans system identification, data-driven modeling and control, and machine learning applied to physical systems.
 
-I have a [PhD in Electrical Engineering](https://ppgee.ufmg.br/defesas/1076D.PDF) and I've been working with mathematical models since 2007, being this my main work interest. You can find a [list with my publications on my CV](http://lattes.cnpq.br/8082773515029049)
+<p>
+  <a href="README.pt-BR.md">Português</a> · <a href="#a-few-things-ive-built-and-contributed-to">Projects</a> · <a href="#profile-research">Research</a> · <a href="#profile-away">Beyond work</a> · <a href="https://www.linkedin.com/in/samir-martins">LinkedIn</a>
+</p>
 
-I consider myself fascinated with financial markets, being this my current top hobby. Benoit Mandelbrot, Nassim Taleb and Al Brooks are my intelectual mentors in this field.
+## A few things I've built and contributed to
 
-Developer of [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), a Telegram bot that performs techincal and fundamentalist analysis in financial market assets (Cryptocurrencies, Nasdaq/Nyse, Forex, B3, ...). I'm also the developer of [PYDAQ](https://samirmartins.github.io/pydaq/) - A Graphical User Interface for data acquisition with Python, Arduino and NIDAQ devices.
+### [PYDAQ](https://github.com/samirmartins/pydaq)
 
-Marathon runner, inspired by David Goggins. Since our brain consumes most energy produced by our body, I beleive we must be in fit in order to maximize our performance.
+From the bench to Python. Data acquisition and experimental analysis with Arduino/NI-DAQ, plus data-driven modeling and control.
 
-Video-game (RPG) completionist.
+I created and wrote the original implementation. I proposed, supervised and tested later extensions implemented by students.
 
-During my carrer, I have already programmed in C/C++/C#, Fortran, Pascal, HTML, CSS, Matlab/Scilab/Octave and Python. Currently I'm interested in Python projects.
+[Docs](https://pydaq.org/) · [Examples](https://github.com/samirmartins/pydaq/tree/main/examples) · [JOSS paper](https://doi.org/10.21105/joss.05662)
 
-I'm looking forward to collaborate with you! 
+### [SysIdentPy](https://github.com/wilsonrljr/sysidentpy)
 
----
-# Bem Vindo ao meu perfil no Github! (PT-BR) 
-## www.samirmartins.com.br
----
+Models from data. System identification with NARMAX models.
 
-Olá, eu sou @samirmartins (www.samirmartins.com.br), natural de Bom Sucesso-MG e atualmente morando em São João del-Rei. 
+Started in a master's course I taught. I supervised the initial work, contributed code and scientific guidance, and coauthored the software paper.
 
-Eu tenho um [doutorando em Engenharia Elétrica](https://ppgee.ufmg.br/defesas/1076D.PDF) e tenho trabalhado com modelos matemáticos desde 2007, sendo este meu principal interesse de trabalho. Você encontra [uma lista com minhas publicações no meu currículo](http://lattes.cnpq.br/8082773515029049)
+[Docs](https://sysidentpy.org/) · [Examples](https://sysidentpy.org/user-guide/overview/) · [JOSS paper](https://doi.org/10.21105/joss.02384)
 
-Me considero fascinado por mercados financeiros, sendo este o meu principal hobby. Benoit Mandelbrot, Nassim Taleb e Al Brooks são meus mentores intelectuais nesta área.
+### [Fox — A Link to the Price](https://fox.samirmartins.com.br/)
 
-Desenvolvedor do [Fox - A Link to the Price](https://samirmartins.github.io/fox_guia_usuario/), robô para Telegram que executa análise técnica e fundamentalista em ativos do mercado financeiro (Criptomoedas, Nasdaq/Nyse, Forex, B3, ...). Também sou o desenvolvedor do [PYDAQ](https://samirmartins.github.io/pydaq/) - Uma interface gráfica para aquisição de dados com Python, Arduino e placas NIDAQ.
+Financial data, via Telegram. A bot I developed for automated technical, fundamental and statistical analysis.
 
-Maratonista, inspirado por David Goggins. Uma vez que nosso cérebro consome a maior parte da energia producida pelo nosso corpo, acredito que precisamos estar em forma para maximizar nosso desempenho.
+Private source code; I currently run it on my own computer. Public documentation includes commands and example outputs.
 
-Video-game (RPG) completionist.
+[User guide](https://fox.samirmartins.com.br/) · [Documentation repo](https://github.com/samirmartins/fox_guia_usuario)
 
-Durante minha carreira, já programei em C/C++/C#, Fortran, Pascal, HTML, CSS, Matlab/Scilab/Octave e Python. Atualmente estou interessado em projetos em Python.
+### [Machine Learning Applied to Engineering](https://github.com/samirmartins/machine_learning_ufsj)
 
-Espero construir uma colaboração com você!
+Learning by working through examples. Course materials and notebooks on regression, classification and model validation in engineering.
 
-##
+A teaching repository, primarily in Portuguese.
 
-<div> 
-	<a href="https://www.linkedin.com/in/samir-martins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	<a href="https://www.instagram.com/osamirmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-	<a href="https://www.twitter.com/martinsSMilani" target="_blank"><img src="https://img.shields.io/twitter/follow/MartinsSMilani?style=for-the-badge" target="_blank"></a> 
-	<a href="https://www.samirmartins.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-www.samirmartins.com.br-blue?style=for-the-badge" target="_blank"></a> 
-</div>
+[Explore the materials](https://github.com/samirmartins/machine_learning_ufsj)
+
+Starting with hardware? There's also an [introductory Arduino and NI-DAQ guide](https://samirmartins.github.io/guia_arduino_nidaq/) in Portuguese, which I coauthored.
+
+## What keeps me curious
+
+- Learning from data: regression, classification, preprocessing, regularization and model validation.
+- Understanding dynamics: nonlinear identification, NARX/NARMAX, hysteresis, control and multiobjective optimization.
+- Knowing when a model is trustworthy: free-run simulation, finite-precision effects and interval methods.
+
+I'm also interested in applying ML, data science and system identification to financial time series.
+
+## Tools I've worked with
+
+Python is central to my scientific software work. My programming background also includes C, C++, C#, Fortran, Pascal, MATLAB, Scilab and Octave, plus HTML and CSS for web work.
+
+<a name="profile-research"></a>
+
+## Research and teaching
+
+I've been a member of GCoM, the Control and Modeling research group at [UFSJ](https://ufsj.edu.br/), since its founding in 2007, initially as a student, and have led the group since January 2025. The group brings together students and faculty. I have managed research teams of undergraduate and graduate students.
+
+My academic record includes 25 journal articles and 51 full conference papers. I have supervised dozens of undergraduate and graduate students.
+
+I'm also a co-inventor of a granted Brazilian patent for automated human gait analysis (BR 10 2017 008238-5).
+
+<a name="profile-away"></a>
+
+## Away from the lab
+
+Marathon runner, Taekwondo practitioner and RPG completionist. I like long-term challenges and seeing things through — whether that's a finish line or the last side quest.
+
+I also develop [VibeLight-Tizen](https://vibelight.samirmartins.com.br/), a Moonlight Tizen fork for game streaming on Samsung TVs, with extensive changes to its audio, video and user interface.
