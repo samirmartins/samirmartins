@@ -34,13 +34,13 @@ Código fechado; atualmente o executo no meu computador. A documentação públi
 
 [Guia do usuário](https://fox.samirmartins.com.br/) · [Repositório da documentação](https://github.com/samirmartins/fox_guia_usuario)
 
-### [Machine Learning Aplicado à Engenharia](https://github.com/samirmartins/machine_learning_ufsj)
+### [Machine Learning Aplicado à Engenharia](https://github.com/samirmartins/machine_learning_pt-br) 
 
 Aprender trabalhando com exemplos. Materiais da disciplina e notebooks sobre regressão, classificação e validação de modelos em engenharia.
 
-Repositório didático, predominantemente em português.
+Repositório didático.
 
-[Explorar os materiais](https://github.com/samirmartins/machine_learning_ufsj)
+[Explorar os materiais](https://github.com/samirmartins/machine_learning_pt-br)
 
 Começando com hardware? Há também um [guia introdutório de Arduino e NI-DAQ](https://samirmartins.github.io/guia_arduino_nidaq/) em português, do qual sou coautor.
 
