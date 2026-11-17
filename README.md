@@ -34,13 +34,13 @@ Private source code; I currently run it on my own computer. Public documentation
 
 [User guide](https://fox.samirmartins.com.br/) · [Documentation repo](https://github.com/samirmartins/fox_guia_usuario)
 
-### [Machine Learning Applied to Engineering](https://github.com/samirmartins/machine_learning_ufsj)
+### [Machine Learning Applied to Engineering](https://github.com/samirmartins/machine_learning_eng)
 
 Learning by working through examples. Course materials and notebooks on regression, classification and model validation in engineering.
 
-A teaching repository, primarily in Portuguese.
+A teaching repository.
 
-[Explore the materials](https://github.com/samirmartins/machine_learning_ufsj)
+[Explore the materials](https://github.com/samirmartins/machine_learning_eng)
 
 Starting with hardware? There's also an [introductory Arduino and NI-DAQ guide](https://samirmartins.github.io/guia_arduino_nidaq/) in Portuguese, which I coauthored.
 
